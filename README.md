@@ -51,7 +51,7 @@ Here are a few screens from the **Glance** app showcasing the main UI:
 
 
 ```bash
-git clone https://github.com/your-username/glance.git
+git clone https://github.com/praveenmaloth/Glance-App.git
 cd glance
 
 npm install
